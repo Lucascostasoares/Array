@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+    
+}
+header{
+    display: flex;
+    flex-direction: row;
+}
+.Box---logomenu{
+    display: flex;
+    flex-direction: row    
+}
+.Linklogomenu{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    padding: 20px 40px;
+    
+}
+.logo{
+    width: 100%;
+
+}
